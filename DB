@@ -1,0 +1,5 @@
+FileInformatio:(table)
+id, file_name, file_path, file_type, object_id, object_type
+
+User:(table)
+id, email, gender, name, password, role, files_id
